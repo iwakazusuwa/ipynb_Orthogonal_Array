@@ -63,5 +63,5 @@ df_OA = df_OA.T
 #=============================================
 #保存
 #=============================================
-df_OA.to_csv("直交表.csv", index=False, encoding="utf-8-sig")
+df_OA.to_csv("直交表.csv", index=True, encoding="utf-8-sig")
 df_OA
