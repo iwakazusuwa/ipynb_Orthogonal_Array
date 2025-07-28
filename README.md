@@ -2,7 +2,7 @@
 
 このPythonスクリプトは【Python×実験計画法】水準表から直交表を作成（コンジョイント分析の準備）を実装しています。
 
-👉 [pyファイルはこちら] (https://github.com/iwakazusuwa/py_OrthogonalArray)
+👉 [pyファイルはこちら](https://github.com/iwakazusuwa/py_OrthogonalArray)
 
 
 詳しい使い方や解説は以下の記事をご覧ください。
